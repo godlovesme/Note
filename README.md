@@ -2,4 +2,4 @@
 记事本
 
 
-![效果图](https://github.com/godlovesme/Note/raw/master/static/image/1.png "效果图")
+![效果图](https://github.com/godlovesme/Note/blob/master/static/image/01.jpg "效果图")
