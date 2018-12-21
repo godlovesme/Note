@@ -1,2 +1,2 @@
 # Note
-note some thing
+记事本
